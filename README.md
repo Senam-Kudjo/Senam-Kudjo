@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Senam-Kudjo
 - 👀 I’m interested in front-end development for apps and websites
-- 🌱 I’m currently learning backend Node,Java and JavaScript
+- 🌱 I’m currently learning backend Node.
 - 💞️ I’m looking to collaborate on projects that pay well
 - 📫 How to reach me senamhumado56@gmail.com or 0508797574
