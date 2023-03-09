@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Senam-Kudjo
 - 👀 I’m interested in DevOps Engineering and front-end development for both apps and websites.
-- 🌱 I’m currently learning backend Node.
+- 🌱 I’m currently learning backend Node and APIs (python).
 - 📫 How to reach me senamhumado56@gmail.com or 0508797574
