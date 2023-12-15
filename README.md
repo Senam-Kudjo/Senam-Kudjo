@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Senam-Kudjo
 - Repented Software Engineer
-- Due to circumstances, I'm currently learning DevOps stuff.
-- I design mobile apps and websites as a hobby https://dribbble.com/Senam_Kudjo (that's my dribbble account) I only uploaded a few projects at the moemnt.
+- Due to circumstances, I'm currently delving into DevOps Engineering
+- I design mobile apps and websites as a hobby https://dribbble.com/Senam_Kudjo (that's my dribbble account) I only uploaded a few projects at the moment.
 - 📫 How to reach me senamhumado56@gmail.com or 0508797574 or 0549066882 or on twitter @SenamKudjo_H
