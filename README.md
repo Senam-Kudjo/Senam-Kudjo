@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Senam-Kudjo
 - Repented Software Engineer turned DevOps and Cloud Engineer.
-- I design mobile apps and websites as a hobby https://dribbble.com/Senam_Kudjo (I only uploaded a few projects at the moment)
+- I sometimes design mobile apps and websites as a hobby https://dribbble.com/Senam_Kudjo
 - 📫 How to reach me senamhumado56@gmail.com or on twitter @SenamKudjo_H
